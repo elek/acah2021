@@ -11,7 +11,7 @@
 
     <!-- Main -->
     <div id="main" class="wrapper style4">
-
+        {{ $presenters := .Params.presenters }}
         <!-- Content -->
         <div id="content" class="container">
             <section>
@@ -25,6 +25,20 @@
                 {{.Content}}
 
             </section>
+
+            {{range .Site.Pages }}
+               {{if eq .Dir "presenters/"}}
+                  {{ $person := . }}
+                  {{ range (split $presenters ", ")}}
+                     {{ if eq $person.Title . }}
+                        {{ if $person.Content }}
+                           <h4>{{ $person.Title }}</h4>
+                           {{ $person.Content }}
+                        {{end}}
+                     {{end}}
+                  {{end}}
+               {{end}}
+            {{end}}
         </div>
     </div>
 
