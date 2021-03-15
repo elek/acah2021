@@ -1,6 +1,8 @@
 ---
-
 title: Call for Presentations
+menu:
+  main:
+    weight: -300
 ---
 The call for presentations is now open! Submit proposals by **Monday, May 3rd, 2021 8:00** AM (America/New_York time - UTC -5). **Please do not wait until the last minute.**
 
