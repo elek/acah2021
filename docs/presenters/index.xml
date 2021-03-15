@@ -1,0 +1,2179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presenters on ApacheCon at Home 2021</title>
+    <link>https://elek.github.io/acah2021/presenters.html</link>
+    <description>Recent content in Presenters on ApacheCon at Home 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://elek.github.io/acah2021/presenters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abhishek Kumar</title>
+      <link>https://elek.github.io/acah2021/presenters/2004.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2004.html</guid>
+      <description>Software developer by profession, interested in contributing to open-source. Love bringing ideas to life. For a number of years, I had been working on developing desktop and mobile applications and have recently transitioned into the infrastructure domain.</description>
+    </item>
+    
+    <item>
+      <title>Adam Zegelin</title>
+      <link>https://elek.github.io/acah2021/presenters/1025.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1025.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adina Crainiceanu</title>
+      <link>https://elek.github.io/acah2021/presenters/1076.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1076.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aizhamal Nurmamat kyzy</title>
+      <link>https://elek.github.io/acah2021/presenters/1114.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1114.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alan Carroll</title>
+      <link>https://elek.github.io/acah2021/presenters/1062.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1062.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alan Myrvold</title>
+      <link>https://elek.github.io/acah2021/presenters/2010.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2010.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Petrov</title>
+      <link>https://elek.github.io/acah2021/presenters/1180.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1180.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Van Boxel</title>
+      <link>https://elek.github.io/acah2021/presenters/2016.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2016.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander Stock</title>
+      <link>https://elek.github.io/acah2021/presenters/1052.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1052.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexey Romanenko</title>
+      <link>https://elek.github.io/acah2021/presenters/2012.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2012.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Allen Wittenauer</title>
+      <link>https://elek.github.io/acah2021/presenters/1200.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1200.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alvaro Santos Andrés</title>
+      <link>https://elek.github.io/acah2021/presenters/1145.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1145.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aman Sinha</title>
+      <link>https://elek.github.io/acah2021/presenters/1178.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1178.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrea Tarocchi</title>
+      <link>https://elek.github.io/acah2021/presenters/1056.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1056.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrew Pilloud</title>
+      <link>https://elek.github.io/acah2021/presenters/2013.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2013.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrija Panić</title>
+      <link>https://elek.github.io/acah2021/presenters/1130.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1130.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andy LoPresto</title>
+      <link>https://elek.github.io/acah2021/presenters/1118.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1118.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anjana Fernando</title>
+      <link>https://elek.github.io/acah2021/presenters/1100.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1100.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anthony Grasso</title>
+      <link>https://elek.github.io/acah2021/presenters/1065.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1065.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anton Epple</title>
+      <link>https://elek.github.io/acah2021/presenters/1102.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1102.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anu Engineer</title>
+      <link>https://elek.github.io/acah2021/presenters/2023.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2023.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anuj Wadhera</title>
+      <link>https://elek.github.io/acah2021/presenters/1009.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1009.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anurag Awasthi</title>
+      <link>https://elek.github.io/acah2021/presenters/1104.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1104.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asias He</title>
+      <link>https://elek.github.io/acah2021/presenters/1089.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1089.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Austin Bennett</title>
+      <link>https://elek.github.io/acah2021/presenters/2014.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2014.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balaji Varadarajan</title>
+      <link>https://elek.github.io/acah2021/presenters/1160.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1160.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ben Bromhead</title>
+      <link>https://elek.github.io/acah2021/presenters/1071.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1071.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bharat Viswanadham</title>
+      <link>https://elek.github.io/acah2021/presenters/1101.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1101.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bob Paulin</title>
+      <link>https://elek.github.io/acah2021/presenters/1107.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1107.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boris Galitsky</title>
+      <link>https://elek.github.io/acah2021/presenters/1014.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1014.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boris Stoyanov - aka Bobby</title>
+      <link>https://elek.github.io/acah2021/presenters/1094.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1094.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boyang Jerry Peng</title>
+      <link>https://elek.github.io/acah2021/presenters/1185.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1185.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Branky Shao</title>
+      <link>https://elek.github.io/acah2021/presenters/1030.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1030.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian Hulette</title>
+      <link>https://elek.github.io/acah2021/presenters/2025.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2025.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian Tang</title>
+      <link>https://elek.github.io/acah2021/presenters/2036.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2036.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Rolo</title>
+      <link>https://elek.github.io/acah2021/presenters/1123.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1123.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charles Givre</title>
+      <link>https://elek.github.io/acah2021/presenters/1049.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1049.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chen Liang</title>
+      <link>https://elek.github.io/acah2021/presenters/1168.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1168.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chengzhi Zhao</title>
+      <link>https://elek.github.io/acah2021/presenters/1131.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1131.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chengzhi Zhao</title>
+      <link>https://elek.github.io/acah2021/presenters/2031.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2031.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chong Sun</title>
+      <link>https://elek.github.io/acah2021/presenters/1059.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1059.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Lohfink</title>
+      <link>https://elek.github.io/acah2021/presenters/1177.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1177.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian Elmer</title>
+      <link>https://elek.github.io/acah2021/presenters/1152.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1152.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christina Lin</title>
+      <link>https://elek.github.io/acah2021/presenters/1053.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1053.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christofer Dutz</title>
+      <link>https://elek.github.io/acah2021/presenters/1075.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1075.html</guid>
+      <description>Likes to swim outside the mainstream. He is really passionate about walking new paths. Some times this means making a new technology useable for the masses or by creating new combinations of established strategies. His solutions are usually unconventional but simple, highly efficient and sexy.</description>
+    </item>
+    
+    <item>
+      <title>Christopher Ferris</title>
+      <link>https://elek.github.io/acah2021/presenters/2034.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2034.html</guid>
+      <description>An IBM Fellow and CTO Open Technology for IBM, Chris has been involved in the architecture, design, and engineering of distributed systems for most of his 39+ year career in IT. He has been actively engaged in open standards and open source development since 1999. He has overall responsibility for setting the strategy and overseeing the execution of IBM&amp;rsquo;s strategic open source and open standards initiatives. He represents IBM on the Hyperledger Technical Steering Committee which he chaired for the first two and a half years, and is a maintainer of the Hyperledger Fabric project.</description>
+    </item>
+    
+    <item>
+      <title>Christopher Schultz</title>
+      <link>https://elek.github.io/acah2021/presenters/1001.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1001.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claus Ibsen</title>
+      <link>https://elek.github.io/acah2021/presenters/1135.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1135.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coty Sutherland</title>
+      <link>https://elek.github.io/acah2021/presenters/1003.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1003.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dan Kirkwood</title>
+      <link>https://elek.github.io/acah2021/presenters/1045.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1045.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Gruno</title>
+      <link>https://elek.github.io/acah2021/presenters/1095.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1095.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Takabayashi</title>
+      <link>https://elek.github.io/acah2021/presenters/1078.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1078.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daoyuan Wang</title>
+      <link>https://elek.github.io/acah2021/presenters/1173.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1173.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dave Fisher</title>
+      <link>https://elek.github.io/acah2021/presenters/1109.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1109.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dave Neuman</title>
+      <link>https://elek.github.io/acah2021/presenters/1044.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1044.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Brin</title>
+      <link>https://elek.github.io/acah2021/presenters/2001.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2001.html</guid>
+      <description>David Brin is an astrophysicist whose international best-selling novels include The Postman, Earth, and recently Existence. Dr. Brin serves on advisory boards (e.g. NASA&amp;rsquo;s Innovative and Advanced Concepts program or NIAC) and speaks or consults on a wide range of topics including AI, SETI, privacy and national security. His nonfiction book about the information age - The Transparent Society - won the Freedom of Speech Award of the American Library Association.</description>
+    </item>
+    
+    <item>
+      <title>David Kjerrumgaard</title>
+      <link>https://elek.github.io/acah2021/presenters/1015.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1015.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De Li</title>
+      <link>https://elek.github.io/acah2021/presenters/1163.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1163.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deepak Dixit</title>
+      <link>https://elek.github.io/acah2021/presenters/1134.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1134.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denis Magda</title>
+      <link>https://elek.github.io/acah2021/presenters/1122.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1122.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devlin Duldulao</title>
+      <link>https://elek.github.io/acah2021/presenters/1149.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1149.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dikang Gu</title>
+      <link>https://elek.github.io/acah2021/presenters/1070.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1070.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dinesh A. Joshi</title>
+      <link>https://elek.github.io/acah2021/presenters/1112.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1112.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dinesh Chitlangia</title>
+      <link>https://elek.github.io/acah2021/presenters/1169.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1169.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dinesh Joshi</title>
+      <link>https://elek.github.io/acah2021/presenters/1026.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1026.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dmitry Vasilyev</title>
+      <link>https://elek.github.io/acah2021/presenters/1197.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1197.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dominik Riemer</title>
+      <link>https://elek.github.io/acah2021/presenters/1073.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1073.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eddie Pickle</title>
+      <link>https://elek.github.io/acah2021/presenters/1155.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1155.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ellen Friedman</title>
+      <link>https://elek.github.io/acah2021/presenters/1051.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1051.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enrico Canzonieri</title>
+      <link>https://elek.github.io/acah2021/presenters/2027.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2027.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etienne Chauchot</title>
+      <link>https://elek.github.io/acah2021/presenters/2011.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2011.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evan Zelkowitz</title>
+      <link>https://elek.github.io/acah2021/presenters/1110.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1110.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ganesh Raju</title>
+      <link>https://elek.github.io/acah2021/presenters/1146.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1146.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garret Wilson</title>
+      <link>https://elek.github.io/acah2021/presenters/1137.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1137.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoff Genz</title>
+      <link>https://elek.github.io/acah2021/presenters/1190.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1190.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>George Miranda</title>
+      <link>https://elek.github.io/acah2021/presenters/1201.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1201.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>George Percivall</title>
+      <link>https://elek.github.io/acah2021/presenters/1143.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1143.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>George Ye</title>
+      <link>https://elek.github.io/acah2021/presenters/1199.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1199.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Griselda Cuevas Zambrano</title>
+      <link>https://elek.github.io/acah2021/presenters/1022.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1022.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hai Lu</title>
+      <link>https://elek.github.io/acah2021/presenters/2020.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2020.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haisheng Yuan</title>
+      <link>https://elek.github.io/acah2021/presenters/1171.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1171.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hari Krishna Patnala</title>
+      <link>https://elek.github.io/acah2021/presenters/1036.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1036.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harikrishna Patnala</title>
+      <link>https://elek.github.io/acah2021/presenters/1006.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1006.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harshit Dwivedi</title>
+      <link>https://elek.github.io/acah2021/presenters/2018.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2018.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hazem Saleh</title>
+      <link>https://elek.github.io/acah2021/presenters/1043.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1043.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heng Du</title>
+      <link>https://elek.github.io/acah2021/presenters/1203.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1203.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hiroyuki Yamada</title>
+      <link>https://elek.github.io/acah2021/presenters/1132.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1132.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holden Karau</title>
+      <link>https://elek.github.io/acah2021/presenters/1113.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1113.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyo-Kyung Joe Lee</title>
+      <link>https://elek.github.io/acah2021/presenters/1066.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1066.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Igal Sapir</title>
+      <link>https://elek.github.io/acah2021/presenters/1140.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1140.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ismaël Mejía</title>
+      <link>https://elek.github.io/acah2021/presenters/2008.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2008.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jackie Jiang</title>
+      <link>https://elek.github.io/acah2021/presenters/1161.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1161.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jagadish Venkatraman</title>
+      <link>https://elek.github.io/acah2021/presenters/1175.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1175.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Gosling</title>
+      <link>https://elek.github.io/acah2021/presenters/2003.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2003.html</guid>
+      <description>James Gosling received a BSc in Computer Science from the University of Calgary, Canada in 1977. He received a PhD in Computer Science from Carnegie-Mellon University in 1983. The title of his thesis was &amp;lsquo;The Algebraic Manipulation of Constraints&amp;rsquo;. He has built satellite data acquisition systems, a multiprocessor version of Unix, several compilers, mail systems and window managers. He has also built a WYSIWYG text editor, a constraint based drawing editor and a text editor called &amp;lsquo;Emacs&amp;rsquo; for Unix systems.</description>
+    </item>
+    
+    <item>
+      <title>James Hughes</title>
+      <link>https://elek.github.io/acah2021/presenters/1154.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1154.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jamie Panagos</title>
+      <link>https://elek.github.io/acah2021/presenters/1046.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1046.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan Doms</title>
+      <link>https://elek.github.io/acah2021/presenters/2026.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2026.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason Kuster</title>
+      <link>https://elek.github.io/acah2021/presenters/2009.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2009.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason Tucker</title>
+      <link>https://elek.github.io/acah2021/presenters/1019.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1019.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javier Santos Andres</title>
+      <link>https://elek.github.io/acah2021/presenters/2037.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2037.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jay Sen</title>
+      <link>https://elek.github.io/acah2021/presenters/1141.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1141.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jay Taylor</title>
+      <link>https://elek.github.io/acah2021/presenters/2033.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2033.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jay Vyas</title>
+      <link>https://elek.github.io/acah2021/presenters/1138.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1138.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jay Zhuang</title>
+      <link>https://elek.github.io/acah2021/presenters/1133.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1133.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JB Onofré</title>
+      <link>https://elek.github.io/acah2021/presenters/1196.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1196.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean Armel Luce</title>
+      <link>https://elek.github.io/acah2021/presenters/1097.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1097.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean-Frederic Clere</title>
+      <link>https://elek.github.io/acah2021/presenters/1079.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1079.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeff Callahan</title>
+      <link>https://elek.github.io/acah2021/presenters/1099.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1099.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeff Elsloo</title>
+      <link>https://elek.github.io/acah2021/presenters/1002.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1002.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeffrey Carpenter</title>
+      <link>https://elek.github.io/acah2021/presenters/2006.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2006.html</guid>
+      <description>Jeff Carpenter is the director of developer advocacy at DataStax, where he leverages his background in system architecture, microservices, and Apache Cassandra to help empower developers and operations engineers to build distributed systems that are scalable, reliable, and secure. Jeff has worked on projects ranging from a complex battle planning system in an austere network environment to a cloud-based hotel reservation system and is the author of the second edition of Cassandra: The Definitive Guide.</description>
+    </item>
+    
+    <item>
+      <title>Jeffrey Kriegsman</title>
+      <link>https://elek.github.io/acah2021/presenters/1018.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1018.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jesse MacFadyen</title>
+      <link>https://elek.github.io/acah2021/presenters/1194.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1194.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jia Yu</title>
+      <link>https://elek.github.io/acah2021/presenters/1116.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1116.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jia Zhai</title>
+      <link>https://elek.github.io/acah2021/presenters/1181.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1181.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jim Jagielski</title>
+      <link>https://elek.github.io/acah2021/presenters/1054.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1054.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jitendra Pandey</title>
+      <link>https://elek.github.io/acah2021/presenters/1048.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1048.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joan Touzet</title>
+      <link>https://elek.github.io/acah2021/presenters/2024.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2024.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joey Lynch</title>
+      <link>https://elek.github.io/acah2021/presenters/1005.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1005.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Clem</title>
+      <link>https://elek.github.io/acah2021/presenters/1061.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1061.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Youngseok Yang</title>
+      <link>https://elek.github.io/acah2021/presenters/1158.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1158.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Gray</title>
+      <link>https://elek.github.io/acah2021/presenters/1060.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1060.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Koppenhofer</title>
+      <link>https://elek.github.io/acah2021/presenters/1106.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1106.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jordan West</title>
+      <link>https://elek.github.io/acah2021/presenters/1091.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1091.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josh Fischer</title>
+      <link>https://elek.github.io/acah2021/presenters/1183.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1183.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josh Patterson</title>
+      <link>https://elek.github.io/acah2021/presenters/1156.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1156.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jozsef Bartok</title>
+      <link>https://elek.github.io/acah2021/presenters/2030.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2030.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julian Feinauer</title>
+      <link>https://elek.github.io/acah2021/presenters/1016.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1016.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julian Hyde</title>
+      <link>https://elek.github.io/acah2021/presenters/1184.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1184.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junfeng Liu</title>
+      <link>https://elek.github.io/acah2021/presenters/1085.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1085.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justin Mclean</title>
+      <link>https://elek.github.io/acah2021/presenters/1092.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1092.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K B Shiv Kumar</title>
+      <link>https://elek.github.io/acah2021/presenters/2005.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2005.html</guid>
+      <description>Shiv is Co-Founder and CTO of IndiQus Technologies Pvt. Ltd. and a CloudStack user turned evangelist since 2013. He loves tinkering on CloudStack and the possibilities it offers. He has deployed multiple public and private clouds running CloudStack in the South Asian region and has also integrated legacy systems with CloudStack. He would love to share his experiences with like minded professionals.</description>
+    </item>
+    
+    <item>
+      <title>Kai Waehner</title>
+      <link>https://elek.github.io/acah2021/presenters/1103.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1103.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kenneth Knowles</title>
+      <link>https://elek.github.io/acah2021/presenters/1023.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1023.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Khai Tran</title>
+      <link>https://elek.github.io/acah2021/presenters/2019.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2019.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyle Weaver</title>
+      <link>https://elek.github.io/acah2021/presenters/2007.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2007.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lars Eilebrecht</title>
+      <link>https://elek.github.io/acah2021/presenters/1086.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1086.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lars Francke</title>
+      <link>https://elek.github.io/acah2021/presenters/1042.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1042.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laxmikant Upadhyay</title>
+      <link>https://elek.github.io/acah2021/presenters/1008.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1008.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lee Rhodes</title>
+      <link>https://elek.github.io/acah2021/presenters/1174.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1174.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leucir Marin</title>
+      <link>https://elek.github.io/acah2021/presenters/1082.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1082.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liang Zhang</title>
+      <link>https://elek.github.io/acah2021/presenters/1127.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1127.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lohit VijayaRenu</title>
+      <link>https://elek.github.io/acah2021/presenters/1012.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1012.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luciano Resende</title>
+      <link>https://elek.github.io/acah2021/presenters/1081.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1081.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Makoto Yui</title>
+      <link>https://elek.github.io/acah2021/presenters/1148.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1148.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcus Sorensen</title>
+      <link>https://elek.github.io/acah2021/presenters/1010.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1010.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marek Sadowski</title>
+      <link>https://elek.github.io/acah2021/presenters/1195.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1195.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Torluemke</title>
+      <link>https://elek.github.io/acah2021/presenters/1004.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1004.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marko A. Rodriguez</title>
+      <link>https://elek.github.io/acah2021/presenters/1058.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1058.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mary Grygleski</title>
+      <link>https://elek.github.io/acah2021/presenters/1192.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1192.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Masahiro Ito</title>
+      <link>https://elek.github.io/acah2021/presenters/1172.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1172.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matija Gobec</title>
+      <link>https://elek.github.io/acah2021/presenters/1088.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1088.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matt Jackson</title>
+      <link>https://elek.github.io/acah2021/presenters/1189.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1189.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matt Ryan</title>
+      <link>https://elek.github.io/acah2021/presenters/1039.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1039.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micah Wylde</title>
+      <link>https://elek.github.io/acah2021/presenters/2015.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2015.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michaël Figuière</title>
+      <link>https://elek.github.io/acah2021/presenters/1040.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1040.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mike Bates</title>
+      <link>https://elek.github.io/acah2021/presenters/1063.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1063.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohamed Sarwat</title>
+      <link>https://elek.github.io/acah2021/presenters/1117.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1117.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohammad Islam</title>
+      <link>https://elek.github.io/acah2021/presenters/1128.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1128.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monal Daxini</title>
+      <link>https://elek.github.io/acah2021/presenters/1024.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1024.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Myrle Krantz</title>
+      <link>https://elek.github.io/acah2021/presenters/1111.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1111.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Márton Elek</title>
+      <link>https://elek.github.io/acah2021/presenters/1170.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1170.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nick Burch</title>
+      <link>https://elek.github.io/acah2021/presenters/1068.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1068.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nick Knize</title>
+      <link>https://elek.github.io/acah2021/presenters/1000.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1000.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicola Ferraro</title>
+      <link>https://elek.github.io/acah2021/presenters/1057.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1057.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicola Mazzoni</title>
+      <link>https://elek.github.io/acah2021/presenters/1179.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1179.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicolas Vazquez</title>
+      <link>https://elek.github.io/acah2021/presenters/1038.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1038.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nir Sopher</title>
+      <link>https://elek.github.io/acah2021/presenters/1188.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1188.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Owen O&#39;Malley</title>
+      <link>https://elek.github.io/acah2021/presenters/1064.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1064.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patrick McFadin</title>
+      <link>https://elek.github.io/acah2021/presenters/1027.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1027.html</guid>
+      <description>Patrick McFadin is the VP of Developer Relations at DataStax, where he leads a team devoted to making users of DataStax products successful. He has also worked as Chief Evangelist for Apache Cassandra and consultant for DataStax, where he helped build some of the largest and most exciting deployments in production. Previous to DataStax, he was Chief Architect at Hobsons and an Oracle DBA/Developer for over 15 years.</description>
+    </item>
+    
+    <item>
+      <title>Paul Angus</title>
+      <link>https://elek.github.io/acah2021/presenters/1108.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1108.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Brebner</title>
+      <link>https://elek.github.io/acah2021/presenters/1031.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1031.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul King</title>
+      <link>https://elek.github.io/acah2021/presenters/1032.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1032.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pavan Kumar Aravapalli</title>
+      <link>https://elek.github.io/acah2021/presenters/1035.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1035.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penchao Wang</title>
+      <link>https://elek.github.io/acah2021/presenters/1125.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1125.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penghui Li</title>
+      <link>https://elek.github.io/acah2021/presenters/1182.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1182.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pratik Patel</title>
+      <link>https://elek.github.io/acah2021/presenters/1204.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1204.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qing Lan</title>
+      <link>https://elek.github.io/acah2021/presenters/1090.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1090.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rafael Weingärtner</title>
+      <link>https://elek.github.io/acah2021/presenters/1093.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1093.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rajan Maurya</title>
+      <link>https://elek.github.io/acah2021/presenters/1193.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1193.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rakesh Kumar</title>
+      <link>https://elek.github.io/acah2021/presenters/2029.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2029.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rakesh Venkatesh</title>
+      <link>https://elek.github.io/acah2021/presenters/1150.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1150.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remy Maucherat</title>
+      <link>https://elek.github.io/acah2021/presenters/1034.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1034.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Riona MacNamara</title>
+      <link>https://elek.github.io/acah2021/presenters/1115.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1115.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rob Tompkins</title>
+      <link>https://elek.github.io/acah2021/presenters/1144.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1144.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Burke</title>
+      <link>https://elek.github.io/acah2021/presenters/2017.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2017.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rohit Yadav</title>
+      <link>https://elek.github.io/acah2021/presenters/1136.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1136.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roman Shaposhnik</title>
+      <link>https://elek.github.io/acah2021/presenters/1037.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1037.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruth Holloway</title>
+      <link>https://elek.github.io/acah2021/presenters/1191.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1191.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruth Suehle</title>
+      <link>https://elek.github.io/acah2021/presenters/1080.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1080.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ryan Blue</title>
+      <link>https://elek.github.io/acah2021/presenters/1157.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1157.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saeid Mirzaei</title>
+      <link>https://elek.github.io/acah2021/presenters/1198.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1198.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sam Ruby</title>
+      <link>https://elek.github.io/acah2021/presenters/2000.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2000.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samaira Mehta</title>
+      <link>https://elek.github.io/acah2021/presenters/2002.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2002.html</guid>
+      <description>Samaira invented a STEM coding board game called CoderBunnyz, which helps teach coding to kids age 4-104 in a playful way. She has given more than 40 workshops with her board game in Silicon Valley, teaching over 1400 kids, including 50+ at Google HQ. She started a non-profit called Girls U Code to teach coding to underrepresented girls. She’s honored to have received a letter from Michelle Obama and has been featured on NBC, Sony, ZDF, Mercury News, sina.</description>
+    </item>
+    
+    <item>
+      <title>Sami Adranly</title>
+      <link>https://elek.github.io/acah2021/presenters/1033.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1033.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott Andreas</title>
+      <link>https://elek.github.io/acah2021/presenters/1072.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1072.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Bretschneider</title>
+      <link>https://elek.github.io/acah2021/presenters/1151.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1151.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastien Allamand</title>
+      <link>https://elek.github.io/acah2021/presenters/1098.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1098.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serge Huber</title>
+      <link>https://elek.github.io/acah2021/presenters/1083.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1083.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seunghyun Lee</title>
+      <link>https://elek.github.io/acah2021/presenters/1162.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1162.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sheng Wu</title>
+      <link>https://elek.github.io/acah2021/presenters/1055.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1055.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shuichi Suzuki</title>
+      <link>https://elek.github.io/acah2021/presenters/2021.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2021.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sid Kattoju</title>
+      <link>https://elek.github.io/acah2021/presenters/1096.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1096.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soenke Liebau</title>
+      <link>https://elek.github.io/acah2021/presenters/1041.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1041.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steve Lawrence</title>
+      <link>https://elek.github.io/acah2021/presenters/1077.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1077.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steve Sanders</title>
+      <link>https://elek.github.io/acah2021/presenters/1121.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1121.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sudarshan Vasudevan</title>
+      <link>https://elek.github.io/acah2021/presenters/1142.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1142.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suma Shivaprasad</title>
+      <link>https://elek.github.io/acah2021/presenters/2022.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2022.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suneel Marthi</title>
+      <link>https://elek.github.io/acah2021/presenters/2028.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2028.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunil Govind</title>
+      <link>https://elek.github.io/acah2021/presenters/1167.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1167.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surekha Saharan</title>
+      <link>https://elek.github.io/acah2021/presenters/1164.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1164.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suresh Kumar Anaparti</title>
+      <link>https://elek.github.io/acah2021/presenters/1007.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1007.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suresh Sadhu</title>
+      <link>https://elek.github.io/acah2021/presenters/1017.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1017.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susan Hinrichs</title>
+      <link>https://elek.github.io/acah2021/presenters/1084.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1084.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syucream</title>
+      <link>https://elek.github.io/acah2021/presenters/2032.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2032.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Takuya Kitazawa</title>
+      <link>https://elek.github.io/acah2021/presenters/1147.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1147.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tanzhongyi</title>
+      <link>https://elek.github.io/acah2021/presenters/1087.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1087.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ted Dunning</title>
+      <link>https://elek.github.io/acah2021/presenters/1021.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1021.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ted Liu</title>
+      <link>https://elek.github.io/acah2021/presenters/1020.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1020.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Delteil</title>
+      <link>https://elek.github.io/acah2021/presenters/1119.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1119.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Huang</title>
+      <link>https://elek.github.io/acah2021/presenters/1153.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1153.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tianqi Chen</title>
+      <link>https://elek.github.io/acah2021/presenters/1120.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1120.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Allison</title>
+      <link>https://elek.github.io/acah2021/presenters/1069.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1069.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tushar Pathare</title>
+      <link>https://elek.github.io/acah2021/presenters/1050.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1050.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tyler Wilson</title>
+      <link>https://elek.github.io/acah2021/presenters/1124.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1124.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upkar Liddy</title>
+      <link>https://elek.github.io/acah2021/presenters/2035.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/2035.html</guid>
+      <description>Upkar Lidder is a Full Stack Developer and Data Wrangler with a decade of development experience in a variety of roles. He can be seen speaking at various conferences and participating in local tech groups and meetups. He is currently curious about magic behind Machine Learning and Deep Learning, specifically use of NLP in chatbots. Upkar went to graduate school in Canada and currently resides in the United States.</description>
+    </item>
+    
+    <item>
+      <title>Valentin Zickner</title>
+      <link>https://elek.github.io/acah2021/presenters/1187.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1187.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vinay Chella</title>
+      <link>https://elek.github.io/acah2021/presenters/1011.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1011.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vincent Royer</title>
+      <link>https://elek.github.io/acah2021/presenters/1067.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1067.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vinoth chandar</title>
+      <link>https://elek.github.io/acah2021/presenters/1159.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1159.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vitor Wakim</title>
+      <link>https://elek.github.io/acah2021/presenters/1139.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1139.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Von gosling</title>
+      <link>https://elek.github.io/acah2021/presenters/1202.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1202.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wangda Tan</title>
+      <link>https://elek.github.io/acah2021/presenters/1047.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1047.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Zhou</title>
+      <link>https://elek.github.io/acah2021/presenters/1105.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1105.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weiwei Yang</title>
+      <link>https://elek.github.io/acah2021/presenters/1165.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1165.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenli Zhang</title>
+      <link>https://elek.github.io/acah2021/presenters/1176.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1176.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Willem Jiang</title>
+      <link>https://elek.github.io/acah2021/presenters/1126.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1126.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William Guo</title>
+      <link>https://elek.github.io/acah2021/presenters/1029.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1029.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiangdong Huang</title>
+      <link>https://elek.github.io/acah2021/presenters/1074.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1074.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaolong.Ran</title>
+      <link>https://elek.github.io/acah2021/presenters/1186.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1186.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xinli Shang</title>
+      <link>https://elek.github.io/acah2021/presenters/1129.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1129.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhankun Tang</title>
+      <link>https://elek.github.io/acah2021/presenters/1166.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elek.github.io/acah2021/presenters/1166.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
