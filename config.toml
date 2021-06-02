@@ -36,11 +36,6 @@ name = "Schedule"
 url = "tracks.html"
 weight = -100
 
-[[languages.en.menu.main]]
-name = "中文"
-url = "zh/"
-weight = 200
-
 # menu for ZH language (final list includes translated pages from /content)
 [[languages.zh.menu.main]]
 name = "T恤"
@@ -57,7 +52,3 @@ name = "日程"
 url = "/tracks.html"
 weight = -100
 
-[[languages.zh.menu.main]]
-name = "English"
-url = "/"
-weight = 200
