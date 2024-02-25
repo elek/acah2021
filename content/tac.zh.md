@@ -1,3 +1,9 @@
+---
+title: 旅行资助
+menu:
+   main:
+      weight: 20       
+---
 
 Apache软件基金会 [旅行资助委员会（Travel Assistance Committee，TAC）](https://tac.apache.org/) 为本次会议提供旅行资助。
 
@@ -5,4 +11,4 @@ Apache软件基金会 [旅行资助委员会（Travel Assistance Committee，TAC
 
 **在申请旅行资助之前，请仔细阅读[整个旅行赞助说明页面](https://tac.apache.org/)。**
 
-[申请CommunityOverCode Asia 2023旅行资助！](https://tac-apply.apache.org/event?id=Community_Over_Code_Asia_2023)
+[申请CommunityOverCode Asia 2024旅行资助！](https://tac-apply.apache.org/)

@@ -1,3 +1,9 @@
+---
+title: Travel Assistance
+menu:
+   main:
+      weight: 20
+---
 
 ASF [Travel Assistance Committee](https://tac.apache.org/) provides travel assistant for this conference.  
 
@@ -5,4 +11,4 @@ Those who are thinking of applying for financial assistance should know that [th
 
 **Please read [entire page](https://tac.apache.org/) BEFORE applying for assistance.**
 
-[Apply travel assistance for CommunityOverCode Asia 2023!](https://tac-apply.apache.org/event?id=Community_Over_Code_Asia_2023)
+[Apply travel assistance for CommunityOverCode Asia 2024!](https://tac-apply.apache.org/)

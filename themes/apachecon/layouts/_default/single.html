@@ -16,12 +16,16 @@
     <div id="main" class="wrapper page">
 
         <!-- Content -->
-        <div id="content">
-            <h2 class="text-center mb-5">{{ .Title }}</h2>
-            <section> 
+        <div id="content" class="container">
+            <section>
+                <header class="text-center mb-5">
+                    <h2>{{.Title}}</h2>
+                </header>
+                
                 {{.Content}}
-            </section>
 
+            </section>
+ 
             {{ if eq .Params.identifier "sponsor" }}
             {{ partial "sponsor.html" . }}
             {{ end }}
